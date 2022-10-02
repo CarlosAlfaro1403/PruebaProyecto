@@ -1,0 +1,19 @@
+{
+  "name": "pruebaproyecto",
+  "version": "1.0.0",
+  "description": "Este es una Prueba",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CarlosAlfaro1403/PruebaProyecto.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CarlosAlfaro1403/PruebaProyecto/issues"
+  },
+  "homepage": "https://github.com/CarlosAlfaro1403/PruebaProyecto#readme"
+}
